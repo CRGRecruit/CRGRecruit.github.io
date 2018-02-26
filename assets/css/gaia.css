@@ -1344,7 +1344,7 @@ a,
 .navbar-default .navbar-nav > li > a:not(.btn):hover,
 .navbar-default .navbar-nav > li > a:not(.btn):focus {
   background-color: transparent;
-  border-radius: 3px;
+  border-radius: 0px;
   color: #434547;
   opacity: 0.85;
   filter: alpha(opacity=85);
@@ -1984,7 +1984,7 @@ a,
   width: 100%;
   height: 100%;
   display: block;
-  top: 0;
+  top: 10;
 }
 .section-header .content,
 .section-header-blog .content,
