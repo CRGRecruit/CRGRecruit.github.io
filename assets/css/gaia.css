@@ -127,7 +127,7 @@ p {
   font-size: 14px;
   line-height: 1.6em;
   font-weight: 400;
-  margin: 1em 0 .75em;
+  margin: 0 0 .75em;
 }
 
 p,
@@ -167,7 +167,8 @@ a:hover {
 
 .title-modern {
   font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-weight: 900;
+
 }
 
 .text-gray {
