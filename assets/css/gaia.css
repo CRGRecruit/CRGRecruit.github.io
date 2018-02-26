@@ -127,7 +127,7 @@ p {
   font-size: 14px;
   line-height: 1.6em;
   font-weight: 400;
-  margin: 0 0 .75em;
+  margin: 1em 0 .75em;
 }
 
 p,
@@ -1344,7 +1344,7 @@ a,
 .navbar-default .navbar-nav > li > a:not(.btn):hover,
 .navbar-default .navbar-nav > li > a:not(.btn):focus {
   background-color: transparent;
-  border-radius: 0px;
+  border-radius: 3px;
   color: #434547;
   opacity: 0.85;
   filter: alpha(opacity=85);
